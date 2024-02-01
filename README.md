@@ -95,5 +95,5 @@ python main.py --use_quantization --use_fedshift --dir_alpha 0.1
 - Changing seed
 
 ```
-python main.py --seed 42
+python main.py --seed 43
 ```
