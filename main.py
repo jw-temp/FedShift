@@ -72,7 +72,7 @@ def main(args):
         num_clients,
         iid=iid,
         shard_size=500,
-        dirichlet=True,
+        dirichlet=dirichlet,
         alpha=dir_alpha,
         seed=seed,
     )
